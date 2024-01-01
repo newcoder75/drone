@@ -1,4 +1,4 @@
-simple code for a drone
+Simple code for a drone
 
 # Components for this code:
 
